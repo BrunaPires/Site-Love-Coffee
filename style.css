@@ -167,7 +167,7 @@ footer {
 }
 
 /*phones */
-@media (max-width: 380px) {
+@media (max-width: 480px) {
     body {
         height: calc(100vh - 40px);
     }
