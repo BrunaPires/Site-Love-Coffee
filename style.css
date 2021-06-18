@@ -163,7 +163,10 @@ footer {
   /* Responsividade */
 
 /*TABLETS*/
-@media (max-width: 767px) {
+@media (max-width: 768px) {
+    .column img {
+        margin-left: 33px;
+      }
 }
 
 /*phones */
@@ -192,12 +195,7 @@ footer {
     }
 
     .column img {
-        margin-top: 8px;
-        margin-left: 18px;
-        width: 320px;
-        height: 400px;
-        padding: 2px;
-        border-radius: 30px;
+        margin-left: 40px;
       }
     
     footer {
